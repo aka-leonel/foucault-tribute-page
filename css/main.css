@@ -1,0 +1,10 @@
+body{
+    background-color: black;
+    color: grey;
+    font-family: arial;
+
+}
+.responsive-img {
+    max-width: 100%;
+    height: auto;
+  }
